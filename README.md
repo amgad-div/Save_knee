@@ -6,5 +6,5 @@
 
 we using cnn model and pretrained model 
 
-*Early detection of knee osteoarthritis by measurenig the strength of muscles of lower limb and using ML to classify it *
+**Early detection of knee osteoarthritis by measurenig the strength of muscles of lower limb and using ML to classify it**
 
