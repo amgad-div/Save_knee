@@ -2,7 +2,7 @@
 
 ### Application that detection and progression of knee osteoarthritis based on machine learning  
 
-*Detection of knee osteoarthritis and it`s severity grading based on x-ray radiology*
+**Detection of knee osteoarthritis and it`s severity grading based on x-ray radiology**
 
 we using cnn model and pretrained model 
 
