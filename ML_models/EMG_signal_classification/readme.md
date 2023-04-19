@@ -1,2 +1,2 @@
-we used this paper 
-https://www.researchgate.net/publication/344708684_Diagnosing_Knee_Osteoarthritis_Using_Artificial_Neural_Networks_and_Deep_Learning
+research we used  [https://www.researchgate.net/publication/344708684]
+
