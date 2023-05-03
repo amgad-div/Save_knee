@@ -26,8 +26,8 @@ def image_check(url):
     # you will se the whole "https://sample-website.com/sample-cdn/photo1.jpg"
     # return url
     # return jsonify({'amg':'sc'})
-    image_path = f'/{url}'
-    img = cv2.imread(image_path)
+#     image_path = f'/{url}'
+    img = cv2.imread(fr'{url}')
     img = np.expand_dims(img,axis=0)
     # print(img.shape)
     model = load_model('/workspaces/Save_knee/final_model.h5')
