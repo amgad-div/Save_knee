@@ -122,9 +122,9 @@ def image_check(url):
 
         return df_structured
     
-    file_path = f'/{url}'
+    #file_path = f'/{url}'
     
-    sd = sEMGData(file_path)
+    sd = sEMGData(fr'{url}')
     df = sd.return_df()
     structured = sliding_window(df)
     
